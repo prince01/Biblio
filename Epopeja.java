@@ -1,4 +1,4 @@
-package client;
+wqeqWpackage client;
 
 public class Epopeja extends Ksiazka {
     String opisKsiazki;
